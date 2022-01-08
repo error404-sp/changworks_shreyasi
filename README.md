@@ -1,4 +1,3 @@
-# changworks_shreyasi
 
 ## Assignment project for ChangWorks
 
