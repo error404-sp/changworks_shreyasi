@@ -21,11 +21,12 @@ function App() {
     origin: { y: 0.6 }
     });
     }
-    
+
   return (
     <div className="App">
-      <h1>Type changworks</h1>
+      <h1>Type "changworks"</h1>
         <GlobalHotKeys handlers={handlers} className="node" keyMap={keyMap}/>
+        <footer>Thank you for the assignment !</footer>
     </div>
   );
 }
