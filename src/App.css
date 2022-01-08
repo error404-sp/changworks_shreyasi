@@ -7,3 +7,28 @@ h1{
   top: 37.5vh;
   color: #d6d6d6;
 }
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  width: 20vw;
+  
+  position: absolute;
+  bottom: 5vh;
+ 
+}
+
+summary {
+  font-weight: bold;
+  
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: .5em;
+}
+footer{
+  position: relative;
+  bottom: 10px;
+  
+}

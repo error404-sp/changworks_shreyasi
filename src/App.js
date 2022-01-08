@@ -26,7 +26,10 @@ function App() {
     <div className="App">
       <h1>Type "changworks"</h1>
         <GlobalHotKeys handlers={handlers} className="node" keyMap={keyMap}/>
-        <footer>Thank you for the assignment !</footer>
+        <details>
+          <summary>Quick Question/Doubt</summary>
+        How to apply HotKey on a Input element?</details>
+      
     </div>
   );
 }
