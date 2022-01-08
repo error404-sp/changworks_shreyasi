@@ -3,8 +3,10 @@
 ## Assignment project for ChangWorks
 
 ### Demo
-<Link_here>
+[https://changworksasnmt.netlify.app/](https://changworksasnmt.netlify.app/)
 
 ### Instructions
 To run the project locally, follow these steps:
-- put the steps here
+- Clone the repository from [GitHub](https://github.com/error404-sp/changworks_shreyasi.git)
+- `cd changworks_shreyasi`
+- `npm start`

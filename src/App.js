@@ -16,8 +16,8 @@ function App() {
     function burstConfetti(){
 
     return confetti({
-    particleCount: 100,
-    spread: 70,
+    particleCount: 200,
+    spread: 100,
     origin: { y: 0.6 }
     });
     }
@@ -27,7 +27,7 @@ function App() {
       <h1>Type "changworks"</h1>
         <GlobalHotKeys handlers={handlers} className="node" keyMap={keyMap}/>
         <details>
-          <summary>Quick Question/Doubt</summary>
+          <summary>Quick Question/Doubt🤔 </summary>
         How to apply HotKey on a Input element?</details>
       
     </div>
